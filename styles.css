@@ -1,15 +1,60 @@
-.center {
-  text-align: center;
+ul li,
+ol li,
+h3 {
+  text-align: justify;
+  margin-right: 1000px;
 }
 
-ul li,
-ol li {
+h3 {
+  margin-left: 140px;
+}
+
+p {
+  text-align: left;
+  margin-right: 1000px;
+  margin-left: 30px;
   text-align: justify;
+}
+
+.para_c {
+  text-align: center;
+  margin: auto;
 }
 
 .img {
   display: block;
+  margin-top: 15px;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border-radius: 8px;
+}
+
+.bg-img {
+  height: auto;
+  width: 900px;
+  border-radius: 90%;
+  margin-right: -400px;
+  margin-bottom: -700px;
+}
+
+.bg-img-small {
+  height: auto;
+  width: 700px;
+  border-radius: 90%;
+  margin-right: -400px;
+  margin-bottom: -520px;
+}
+
+.bg-img-large {
+  height: auto;
+  width: 900px;
+  border-radius: 90%;
+  margin-right: -350px;
+  margin-bottom: -800px;
+}
+
+
+.center {
+  text-align: center;
 }
