@@ -58,3 +58,15 @@ p {
 .center {
   text-align: center;
 }
+
+.font {
+  font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+.highlight {
+  background-color: yellow;
+  color: rgba(255, 00, 00, 0.5);
+
+  font-weight: bold;
+  font-size: larger;
+}
